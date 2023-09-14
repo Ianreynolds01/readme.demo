@@ -1,1 +1,1 @@
-# readme.demo
+# readme-demo
